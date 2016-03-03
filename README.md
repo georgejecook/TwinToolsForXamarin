@@ -1,2 +1,3 @@
 # TwinToolsForXamarin
-Xamarin add-in with additional code navigation/intellisense features
+
+This is now to be found at [https://github.com/twintechs/TwinToolsForXamarin](https://github.com/twintechs/TwinToolsForXamarin)
